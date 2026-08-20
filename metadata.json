@@ -1,0 +1,6 @@
+{
+  "name": "Material Receipt Checklist AI",
+  "description": "Automated Material Receipt Checklist generator using photos of bills and materials with smart field extraction, weight calculation, and print-ready reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
